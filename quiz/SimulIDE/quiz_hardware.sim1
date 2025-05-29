@@ -1,4 +1,4 @@
-<circuit version="1.1.0-SR1" rev="2005" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+<circuit version="1.1.0-SR1" rev="2005" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="1" >
 
 <item itemtype="Subcircuit" CircId="Uno-1" mainComp="false" Show_id="true" Show_Val="false" Pos="348,-164" rotation="0" hflip="1" vflip="1" label="Arduino (Uno/Pro Mini)" idLabPos="37.0823,235.1" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="false">
 <mainCompProps MainCompId="mega328-109" Frequency="16 MHz" Program="main.hex" Auto_Load="false" saveEepr="true" varList="rank_index,toggle_button,toggle_mode,PIND,PINB,reset_seq" MainMcu="true" SerialMon="-1" />
@@ -62,8 +62,6 @@
 
 <item itemtype="Connector" uid="Connector-99" startpinid="ResistorDip-35-resistor2-ePin4" endpinid="Led-19-lPin" pointList="132,20,132,80,76,80,76,88" />
 
-<item itemtype="Connector" uid="Connector-100" startpinid="ResistorDip-35-resistor5-ePin10" endpinid="Led-21-lPin" pointList="156,20,156,76,196,76,196,88" />
-
 <item itemtype="Connector" uid="Connector-101" startpinid="ResistorDip-35-resistor5-ePin11" endpinid="Uno-1-7" pointList="156,-12,156,-92,356,-92" />
 
 <item itemtype="Connector" uid="Connector-102" startpinid="ResistorDip-35-resistor4-ePin9" endpinid="Uno-1-6" pointList="148,-12,148,-100,356,-100" />
@@ -89,5 +87,7 @@
 <item itemtype="Connector" uid="Connector-118" startpinid="Node-38-2" endpinid="Uno-1-5V0" pointList="512,-208,524,-208,524,-68,500,-68" />
 
 <item itemtype="Connector" uid="Connector-119" startpinid="Push-37-pinP0" endpinid="Uno-1-0" pointList="428,-268,428,-180,380,-180,380,-160,356,-160,356,-148" />
+
+<item itemtype="Connector" uid="Connector-100" startpinid="ResistorDip-35-resistor5-ePin10" endpinid="Led-21-lPin" pointList="156,20,156,76,196,76,196,88" />
 
 </circuit>
