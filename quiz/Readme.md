@@ -67,3 +67,5 @@ Hardware setups for quiz programs.
 | **Thyristor (MAC223-6)**  | N pcs     | ₨ 250.00   per piece  | [Giga Nepal](https://www.giganepal.com/product/motorola-triac-silicon-bidirectional-triode-thyristors-25a-400v-mac223-6/) |
 | **Li-ion Battery** | X pcs | Rs 150-250 per pieces | [Giga Nepal](https://www.giganepal.com/categories/battery-battery-chargers-nepal/rechargeable-lithium-ion-batteries-nepal/?v=584a79c5e916)
 | **Total Cost: for 4 players**| (4+10+10+250+200) * 4 | = **~2,000**NPRS
+
+13125
