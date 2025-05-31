@@ -66,6 +66,14 @@ Hardware setups for quiz programs.
 | **LED (White Base Bright)** | N pcs    | ₨ 135.00 per 10 pcs     | [Giga Nepal](https://www.giganepal.com/product/3-volt-led-1-w-10-pcs/?v=584a79c5e916)                                  |
 | **Thyristor (MAC223-6)**  | N pcs     | ₨ 250.00   per piece  | [Giga Nepal](https://www.giganepal.com/product/motorola-triac-silicon-bidirectional-triode-thyristors-25a-400v-mac223-6/) |
 | **Li-ion Battery** | X pcs | Rs 150-250 per pieces | [Giga Nepal](https://www.giganepal.com/categories/battery-battery-chargers-nepal/rechargeable-lithium-ion-batteries-nepal/?v=584a79c5e916)
+| **male female heade**| N Fe/male pairs | Rs 500 per 5 each Fe/male |[Daraz](https://www.daraz.lk/products/dc-jack-with-wire-male-and-female-5-pcs-socket-55x21mm-dc-power-pigtail-wire-connector-27cm-12v-5521mm-dc-male-plug-female-jack-i197984766-s1261556932.html)
 | **Total Cost: for 4 players**| (4+10+10+250+200) * 4 | = **~2,000**NPRS
 
+
+### Design Resources
+- FreeCAD :- https://www.freecad.org/
+- https://www.schurter.com/en/datasheet/typ_6x6_mm_tact_switches.pdf
+- https://www.mouser.com/datasheet/2/302/MAC223_SERIES_HG_2-85158.pdf
+- https://www.alldatasheet.com/datasheet-pdf/view/186291/EVERLIGHT/EHP-A08L.html
+- https://img.drz.lazcdn.com/g/kf/Sf55c0aef153543f8ad7bfc956c1abb80r.jpg_720x720q80.jpg_.webp
 13125
