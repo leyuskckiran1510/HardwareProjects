@@ -1,0 +1,155 @@
+<circuit version="1.1.0-SR1" rev="2005" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="1" >
+
+<item itemtype="Ground" CircId="Ground-3" mainComp="false" Show_id="false" Show_Val="false" Pos="-244,140" rotation="90" hflip="1" vflip="1" label="Ground-3" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Rail" CircId="Rail-2" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="-244,-68" rotation="360" hflip="1" vflip="1" label="Rail-2" idLabPos="-5,-10" labelrot="-90" valLabPos="-12,6" valLabRot="-90" Voltage="9 V" />
+
+<item itemtype="Push" CircId="Push-61" mainComp="false" Show_id="false" Show_Val="false" Pos="-216,-16" rotation="90" hflip="1" vflip="1" label="Push-61" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" Key="r" />
+
+<item itemtype="BJT" CircId="BJT-76" mainComp="false" Show_id="false" Show_Val="false" Pos="-44,120" rotation="90" hflip="1" vflip="1" label="BJT-76" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" PNP="false" Gain="100" Vcrit="0.670736 V" />
+
+<item itemtype="Push" CircId="Push-78" mainComp="false" Show_id="false" Show_Val="false" Pos="-44,-36" rotation="90" hflip="1" vflip="1" label="Push-78" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" Key="1" />
+
+<item itemtype="Resistor" CircId="Resistor-79" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="-4,44" rotation="90" hflip="1" vflip="1" label="Resistor-79" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="200 Ω" />
+
+<item itemtype="Resistor" CircId="Resistor-81" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="-116,92" rotation="90" hflip="1" vflip="1" label="Resistor-81" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="100 kΩ" />
+
+<item itemtype="Resistor" CircId="Resistor-82" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="-44,84" rotation="450" hflip="1" vflip="1" label="Resistor-82" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="200 Ω" />
+
+<item itemtype="Capacitor" CircId="Capacitor-83" mainComp="false" ShowProp="Capacitance" Show_id="false" Show_Val="true" Pos="-80,88" rotation="90" hflip="1" vflip="1" label="Capacitor-83" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Capacitance="10000 µF" Resistance="100 Ω" InitVolt="0 V" ReaStep="0 ns" />
+
+<item itemtype="Led" CircId="Led-84" mainComp="false" Show_id="false" Show_Val="false" Pos="-4,88" rotation="90" hflip="1" vflip="1" label="Led-84" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="false" Threshold="2.4 V" MaxCurrent="30 mA" Resistance="0.6 Ω" />
+
+<item itemtype="BJT" CircId="BJT-87" mainComp="false" Show_id="false" Show_Val="false" Pos="100,124" rotation="90" hflip="1" vflip="1" label="BJT-87" idLabPos="18,0" labelrot="0" valLabPos="-16,20" valLabRot="0" PNP="false" Gain="100" Vcrit="0.670736 V" />
+
+<item itemtype="Push" CircId="Push-89" mainComp="false" Show_id="false" Show_Val="false" Pos="100,-32" rotation="90" hflip="1" vflip="1" label="Push-89" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1" Key="2" />
+
+<item itemtype="Resistor" CircId="Resistor-90" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="140,48" rotation="90" hflip="1" vflip="1" label="Resistor-90" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="200 Ω" />
+
+<item itemtype="Resistor" CircId="Resistor-92" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="28,96" rotation="90" hflip="1" vflip="1" label="Resistor-92" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="100 kΩ" />
+
+<item itemtype="Resistor" CircId="Resistor-93" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="100,88" rotation="450" hflip="1" vflip="1" label="Resistor-93" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="200 Ω" />
+
+<item itemtype="Capacitor" CircId="Capacitor-94" mainComp="false" ShowProp="Capacitance" Show_id="false" Show_Val="true" Pos="64,92" rotation="90" hflip="1" vflip="1" label="Capacitor-94" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Capacitance="10000 µF" Resistance="100 Ω" InitVolt="0 V" ReaStep="0 ns" />
+
+<item itemtype="Led" CircId="Led-95" mainComp="false" Show_id="false" Show_Val="false" Pos="140,92" rotation="90" hflip="1" vflip="1" label="Led-95" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="false" Threshold="2.4 V" MaxCurrent="30 mA" Resistance="0.6 Ω" />
+
+<item itemtype="Diode" CircId="Diode-113" mainComp="false" Show_id="false" Show_Val="false" Pos="32,12" rotation="180" hflip="1" vflip="1" label="Diode-113" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Model="Diode Default" Threshold="0.634767 V" MaxCurrent="1 A" Resistance="0.05 Ω" BrkDownV="0 V" SatCurrent="171.435 nA" EmCoef="2" />
+
+<item itemtype="Node" CircId="Node-80" mainComp="false" Pos="-44,56" />
+
+<item itemtype="Node" CircId="Node-85" mainComp="false" Pos="-44,44" />
+
+<item itemtype="Node" CircId="Node-91" mainComp="false" Pos="100,60" />
+
+<item itemtype="Node" CircId="Node-96" mainComp="false" Pos="100,48" />
+
+<item itemtype="Node" CircId="Node-97" mainComp="false" Pos="-216,140" />
+
+<item itemtype="Node" CircId="Node-98" mainComp="false" Pos="-60,140" />
+
+<item itemtype="Node" CircId="Node-99" mainComp="false" Pos="28,140" />
+
+<item itemtype="Node" CircId="Node-100" mainComp="false" Pos="64,140" />
+
+<item itemtype="Node" CircId="Node-101" mainComp="false" Pos="-76,140" />
+
+<item itemtype="Node" CircId="Node-102" mainComp="false" Pos="-116,140" />
+
+<item itemtype="Node" CircId="Node-103" mainComp="false" Pos="-44,-72" />
+
+<item itemtype="Node" CircId="Node-104" mainComp="false" Pos="-4,-72" />
+
+<item itemtype="Node" CircId="Node-105" mainComp="false" Pos="100,-76" />
+
+<item itemtype="Node" CircId="Node-106" mainComp="false" Pos="-80,56" />
+
+<item itemtype="Node" CircId="Node-114" mainComp="false" Pos="76,60" />
+
+<item itemtype="Node" CircId="Node-115" mainComp="false" Pos="-80,4" />
+
+<item itemtype="Connector" uid="Connector-203" startpinid="Led-84-rPin" endpinid="BJT-76-collector" pointList="-4,104,-4,128,-28,128" />
+
+<item itemtype="Connector" uid="Connector-205" startpinid="Resistor-79-rPin" endpinid="Led-84-lPin" pointList="-4,60,-4,72" />
+
+<item itemtype="Connector" uid="Connector-207" startpinid="Resistor-81-lPin" endpinid="Node-85-0" pointList="-116,76,-116,44,-44,44" />
+
+<item itemtype="Connector" uid="Connector-208" startpinid="Node-80-2" endpinid="Resistor-82-lPin" pointList="-44,56,-44,68" />
+
+<item itemtype="Connector" uid="Connector-210" startpinid="Resistor-82-rPin" endpinid="BJT-76-base" pointList="-44,100,-44,104" />
+
+<item itemtype="Connector" uid="Connector-211" startpinid="Node-85-2" endpinid="Push-78-switch0pinN" pointList="-44,44,-44,-20" />
+
+<item itemtype="Connector" uid="Connector-213" startpinid="Node-85-1" endpinid="Node-80-0" pointList="-44,44,-44,56" />
+
+<item itemtype="Connector" uid="Connector-221" startpinid="Led-95-rPin" endpinid="BJT-87-collector" pointList="140,108,140,132,116,132" />
+
+<item itemtype="Connector" uid="Connector-223" startpinid="Resistor-90-rPin" endpinid="Led-95-lPin" pointList="140,64,140,76" />
+
+<item itemtype="Connector" uid="Connector-226" startpinid="Node-91-2" endpinid="Resistor-93-lPin" pointList="100,60,100,72" />
+
+<item itemtype="Connector" uid="Connector-228" startpinid="Resistor-93-rPin" endpinid="BJT-87-base" pointList="100,104,100,108" />
+
+<item itemtype="Connector" uid="Connector-229" startpinid="Node-96-2" endpinid="Push-89-switch0pinN" pointList="100,48,100,-16" />
+
+<item itemtype="Connector" uid="Connector-231" startpinid="Node-96-1" endpinid="Node-91-0" pointList="100,48,100,60" />
+
+<item itemtype="Connector" uid="Connector-236" startpinid="Push-61-switch0pinN" endpinid="Node-97-0" pointList="-216,0,-216,140" />
+
+<item itemtype="Connector" uid="Connector-237" startpinid="Node-97-2" endpinid="Ground-3-Gnd" pointList="-216,140,-228,140" />
+
+<item itemtype="Connector" uid="Connector-238" startpinid="BJT-76-emiter" endpinid="Node-98-1" pointList="-60,128,-60,140" />
+
+<item itemtype="Connector" uid="Connector-241" startpinid="Resistor-92-rPin" endpinid="Node-99-1" pointList="28,112,28,140" />
+
+<item itemtype="Connector" uid="Connector-243" startpinid="Node-99-2" endpinid="Node-98-0" pointList="28,140,-60,140" />
+
+<item itemtype="Connector" uid="Connector-244" startpinid="Capacitor-94-rPin" endpinid="Node-100-1" pointList="64,108,64,140" />
+
+<item itemtype="Connector" uid="Connector-245" startpinid="BJT-87-emiter" endpinid="Node-100-0" pointList="84,132,84,140,64,140" />
+
+<item itemtype="Connector" uid="Connector-246" startpinid="Node-100-2" endpinid="Node-99-0" pointList="64,140,28,140" />
+
+<item itemtype="Connector" uid="Connector-247" startpinid="Capacitor-83-rPin" endpinid="Node-101-1" pointList="-80,104,-80,140,-76,140" />
+
+<item itemtype="Connector" uid="Connector-248" startpinid="Node-98-2" endpinid="Node-101-0" pointList="-60,140,-76,140" />
+
+<item itemtype="Connector" uid="Connector-250" startpinid="Resistor-81-rPin" endpinid="Node-102-1" pointList="-116,108,-116,140" />
+
+<item itemtype="Connector" uid="Connector-251" startpinid="Node-101-2" endpinid="Node-102-0" pointList="-76,140,-116,140" />
+
+<item itemtype="Connector" uid="Connector-252" startpinid="Node-102-2" endpinid="Node-97-1" pointList="-116,140,-216,140" />
+
+<item itemtype="Connector" uid="Connector-253" startpinid="Rail-2-outnod" endpinid="Node-103-1" pointList="-228,-68,-44,-68,-44,-72" />
+
+<item itemtype="Connector" uid="Connector-254" startpinid="Push-78-pinP0" endpinid="Node-103-0" pointList="-44,-52,-44,-72" />
+
+<item itemtype="Connector" uid="Connector-256" startpinid="Node-104-1" endpinid="Node-105-1" pointList="-4,-72,100,-72,100,-76" />
+
+<item itemtype="Connector" uid="Connector-257" startpinid="Node-103-2" endpinid="Node-104-0" pointList="-44,-72,-44,-80,-4,-80,-4,-72" />
+
+<item itemtype="Connector" uid="Connector-258" startpinid="Node-104-2" endpinid="Resistor-79-lPin" pointList="-4,-72,-4,28" />
+
+<item itemtype="Connector" uid="Connector-259" startpinid="Push-89-pinP0" endpinid="Node-105-0" pointList="100,-48,100,-76" />
+
+<item itemtype="Connector" uid="Connector-260" startpinid="Node-105-2" endpinid="Resistor-90-lPin" pointList="100,-76,140,-76,140,32" />
+
+<item itemtype="Connector" uid="Connector-262" startpinid="Capacitor-83-lPin" endpinid="Node-106-0" pointList="-80,72,-80,56" />
+
+<item itemtype="Connector" uid="Connector-263" startpinid="Node-106-2" endpinid="Node-80-1" pointList="-80,56,-44,56" />
+
+<item itemtype="Connector" uid="Connector-274" startpinid="Resistor-92-lPin" endpinid="Node-96-0" pointList="28,80,28,48,100,48" />
+
+<item itemtype="Connector" uid="Connector-283" startpinid="Diode-113-lPin" endpinid="Node-114-1" pointList="48,12,76,12,76,60" />
+
+<item itemtype="Connector" uid="Connector-284" startpinid="Capacitor-94-lPin" endpinid="Node-114-0" pointList="64,76,64,60,76,60" />
+
+<item itemtype="Connector" uid="Connector-285" startpinid="Node-114-2" endpinid="Node-91-1" pointList="76,60,100,60" />
+
+<item itemtype="Connector" uid="Connector-286" startpinid="Diode-113-rPin" endpinid="Node-115-1" pointList="16,12,16,8,-80,8,-80,4" />
+
+<item itemtype="Connector" uid="Connector-287" startpinid="Push-61-pinP0" endpinid="Node-115-0" pointList="-216,-32,-80,-32,-80,4" />
+
+<item itemtype="Connector" uid="Connector-288" startpinid="Node-115-2" endpinid="Node-106-1" pointList="-80,4,-84,4,-84,56" />
+
+</circuit>
